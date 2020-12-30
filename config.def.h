@@ -6,7 +6,7 @@ static int centered = 1;                    /* -c option; centers dmenu on scree
 static int min_width = 600;                    /* minimum width when centered */
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"Fantasque Sans Mono Nerd Font:size=16:autohint=true:antialias=true"
+	"Fantasque Sans Mono Nerd Font:size=18:autohint=true:antialias=true"
 };
 static const char *prompt = "Run";      /* -p  option; prompt to the left of input field */
 
